@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <Authors>CaptRenegade</Authors>
+    <Version>1.0.0</Version>
+    <Description>A small collection of useful symmetric/asymmetric cryptographic algorithms for encrypting strings of text.</Description>
+  </PropertyGroup>
+
+</Project>
